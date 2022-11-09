@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @KNZO08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  le developement web 
+- 🌱 I’m currently learning le php et le python
+- 💞️ I’m looking to collaborate on un serveur 
+- 📫 How to reach me :P4X#9537
 
-<!---
-KNZO08/KNZO08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
